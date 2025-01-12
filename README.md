@@ -123,5 +123,12 @@ For questions, collaborations, or feedback, feel free to reach out:
  
 •	🐦 Twitter: [https://x.com/AhmedBoin]
 
+---
+
+## 🙏 Acknowledgment
+
+I would like to express my deepest gratitude to **Radwa A. Rakha** for her invaluable support, encouragement, and guidance throughout the development and presentation of this research. Her insightful feedback and unwavering enthusiasm played a pivotal role in refining this work. I am truly grateful for her contributions and dedication, which have greatly enriched the quality of this study.
+
+---
 
 Happy coding! 😊

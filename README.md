@@ -107,9 +107,12 @@ If you use this repository in your research or find it helpful, please cite our 
 ```bibtex
 @article{Taha2025LogMem,
   author    = {Mohamed A. Taha},
-  title     = {Logarithmic Memory Networks (LMNs)},
-  journal   = {To Be Published},
+  title     = {Logarithmic Memory Networks (LMNs): Efficient Long-Range Sequence Modeling for Resource-Constrained Environments},
+  journal   = {arXiv preprint},
+  volume    = {arXiv:2501.07905},
   year      = {2025},
+  note      = {Under consideration at Springer: Artificial Intelligence Review},
+  url       = {https://arxiv.org/abs/2501.07905}
 }
 ```
 
